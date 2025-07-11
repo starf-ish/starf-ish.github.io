@@ -106,7 +106,7 @@ function App() {
               <h3 className="text-xl font-bold text-rose-800">Work in Progress</h3>
             </div>
             <p className="text-rose-700 leading-relaxed">
-              Meanwhile <strong>yn</strong> is not done learning his Chopin Op 10 No 1
+              Meanwhile <strong>yn</strong> is not done learning his Etude Op 10 No 1
             </p>
             <div className="mt-4">
               <div className="bg-rose-100 rounded-full h-2">
