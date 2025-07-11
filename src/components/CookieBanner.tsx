@@ -92,7 +92,7 @@ const CookieBanner: React.FC = () => {
           </div>
 
           <p className="text-sm text-rose-600 mb-4 leading-relaxed">
-            We use cookies to enhance your piano learning experience and track your practice sessions. 
+            We use cookies to enhance your nonexistent experience and track your nonexistent sessions. 
             By continuing, you agree to our use of cookies for analytics and personalization.
           </p>
 
