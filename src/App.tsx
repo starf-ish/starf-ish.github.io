@@ -1,9 +1,8 @@
-import React from 'react';
+
 import { Piano, Users, Music, Calendar, Trophy, MessageCircle } from 'lucide-react';
 import CookieBanner from './components/CookieBanner';
 
 function App() {
-  console.log('App component is rendering'); // Debug log
   
   return (
     <div className="min-h-screen bg-gradient-to-br from-[#E1AFB8] to-[#fffafa] py-8 px-4">
